@@ -1,0 +1,8 @@
+git config --global user "user name"
+git config --global user "email git"
+
+git init
+git add .
+git remoto add origin " https://github.com
+git commit-m "msg"
+git push .u origin master
